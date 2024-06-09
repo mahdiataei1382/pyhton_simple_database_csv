@@ -1,0 +1,28 @@
+movies
+name STRING
+year_product INT
+rate INT
+number_of_voter INT
+genre STRING
+director STRING
+budget INT
+currency STRING
+language STRING
+rank INT
+country STRING
+
+cooperation
+actors STRING
+director STRING
+movie_name STRING
+
+
+hi
+name STRING
+rank INT
+rate FLOAT
+
+amir
+name STRING
+age INT
+

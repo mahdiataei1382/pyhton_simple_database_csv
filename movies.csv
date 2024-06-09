@@ -1,0 +1,251 @@
+name,year_product,rate,number_of_voter,genre,director,budget,currency,language,rank,country
+The Shawshank Redemption,1994,9.3,2700000,Drama,Frank Darabont,25000000,$,English,1,United States
+The Godfather,1972,9.2,1900000,"Crime, Drama",Francis Ford Coppola,6000000,$,"English, Italian, Latin",2,United States
+The Dark Knight,2008,9.0,2700000,"Action, Crime, Drama",Christopher Nolan,185000000,$,"English, Mandarin",3,"United States, United Kingdom"
+The Godfather Part II,1974,9.0,1300000,"Crime, Drama",Francis Ford Coppola,13000000,$,"English, Italian, Spanish, Latin, Sicilian",4,United States
+12 Angry Men,1957,9.0,796000,"Crime, Drama",Sidney Lumet,350000,$,English,5,United States
+Schindler's List,1993,9.0,1400000,"Biography, Drama, History",Steven Spielberg,22000000,$,"English, Hebrew, German, Polish, Latin",6,United States
+The Lord of the Rings: The Return of the King,2003,9.0,1900000,"Action, Adventure, Drama",Peter Jackson,94000000,$,"English, Quenya, Old English, Sindarin",7,"New Zealand, United States"
+Pulp Fiction,1994,8.9,2100000,"Crime, Drama",Quentin Tarantino,8000000,$,"English, Spanish, French",8,United States
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,1900000,"Action, Adventure, Drama",Peter Jackson,93000000,$,"English, Sindarin",9,"New Zealand, United States"
+"The Good, the Bad and the Ugly",1966,8.8,766000,"Adventure, Western",Sergio Leone,1200000,$,"Italian, English",10,"Italy, Spain, West Germany"
+Forrest Gump,1994,8.8,2100000,"Drama, Romance",Robert Zemeckis,55000000,$,English,11,United States
+Fight Club,1999,8.8,2100000,Drama,David Fincher,63000000,$,English,12,"Germany, United States"
+The Lord of the Rings: The Two Towers,2002,8.8,1700000,"Action, Adventure, Drama",Peter Jackson,94000000,$,"English, Sindarin, Old English",13,"New Zealand, United States"
+Inception,2010,8.8,2400000,"Action, Adventure, Sci-Fi",Christopher Nolan,160000000,$,"English, Japanese, French",14,"United States, United Kingdom"
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1300000,"Action, Adventure, Fantasy",Irvin Kershner,18000000,$,English,15,United States
+The Matrix,1999,8.7,1900000,"Action, Sci-Fi",Lana Wachowski,63000000,$,English,16,"United States, Australia"
+Goodfellas,1990,8.7,1200000,"Biography, Crime, Drama",Martin Scorsese,25000000,$,"English, Italian",17,United States
+One Flew Over the Cuckoo's Nest,1975,8.7,1000000,Drama,Milos Forman,3000000,$,English,18,United States
+Se7en,1995,8.6,1700000,"Crime, Drama, Mystery",David Fincher,33000000,$,English,19,United States
+Seven Samurai,1954,8.6,349000,"Action, Drama",Akira Kurosawa,125000000,¥,Japanese,20,Japan
+It's a Wonderful Life,1946,8.6,466000,"Drama, Family, Fantasy",Frank Capra,3180000,$,"English, French",21,United States
+The Silence of the Lambs,1991,8.6,1400000,"Crime, Drama, Thriller",Jonathan Demme,19000000,$,"English, Latin",22,United States
+City of God,2002,8.6,761000,"Crime, Drama",Fernando Meirelles,$3300000,R,Portuguese,23,"Brazil, France, Germany"
+Saving Private Ryan,1998,8.6,1400000,"Drama, War",Steven Spielberg,70000000,$,"English, French, German, Czech",24,United States
+Interstellar,2014,8.6,1900000,"Adventure, Drama, Sci-Fi",Christopher Nolan,165000000,$,English,25,"United States, United Kingdom, Canada"
+Life Is Beautiful,1997,8.6,700000,"Comedy, Drama, Romance",Roberto Benigni,20000000,$,"Italian, German, English",26,Italy
+The Green Mile,1999,8.6,1300000,"Crime, Drama, Fantasy",Frank Darabont,60000000,$,"English, French",27,United States
+Star Wars: Episode IV - A New Hope,1977,8.6,1400000,"Action, Adventure, Fantasy",George Lucas,11000000,$,English,28,United States
+Terminator 2: Judgment Day,1991,8.6,1100000,"Action, Sci-Fi",James Cameron,102000000,$,"English, Spanish",29,United States
+Back to the Future,1985,8.5,1200000,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,19000000,$,English,30,United States
+Spirited Away,2001,8.6,771000,"Animation, Adventure, Family",Hayao Miyazaki,19000000,$,"Japanese, English",31,Japan
+The Pianist,2002,8.5,839000,"Biography, Drama, Music",Roman Polanski,35000000,$,"English, German, Russian",32,"France, Poland, Germany, United Kingdom"
+Psycho,1960,8.5,677000,"Horror, Mystery, Thriller",Alfred Hitchcock,806947,$,English,33,United States
+Parasite,2019,8.5,817000,"Drama, Thriller",Bong Joon Ho,11400000,$,"Korean, English",34,South Korea
+Léon: The Professional,1994,8.5,1200000,"Action, Crime, Drama",Luc Besson,RF,F,"English, Italian, French",35,"France, United States"
+The Lion King,1994,8.5,1100000,"Animation, Adventure, Drama",Roger Allers,45000000,$,"English, Swahili, Xhosa, Zulu",36,United States
+Gladiator,2000,8.5,1500000,"Action, Adventure, Drama",Ridley Scott,103000000,$,English,37,"United States, United Kingdom, Malta, Morocco"
+American History X,1998,8.5,1100000,"Crime, Drama",Tony Kaye,20000000,$,English,38,United States
+The Departed,2006,8.5,1300000,"Crime, Drama, Thriller",Martin Scorsese,90000000,$,"English, Cantonese",39,"United States, Hong Kong"
+The Usual Suspects,1995,8.5,1100000,"Crime, Drama, Mystery",Bryan Singer,6000000,$,"English, Hungarian, Spanish, French",40,"United States, Germany"
+The Prestige,2006,8.5,1300000,"Drama, Mystery, Sci-Fi",Christopher Nolan,40000000,$,English,41,"United Kingdom, United States"
+Whiplash,2014,8.5,874000,"Drama, Music",Damien Chazelle,3300000,$,English,42,United States
+Casablanca,1942,8.5,576000,"Drama, Romance, War",Michael Curtiz,950000,$,"English, French, German, Italian",43,United States
+Grave of the Fireflies,1988,8.5,281000,"Animation, Drama, War",Isao Takahata,3700000,$,Japanese,44,Japan
+Harakiri,1962,8.6,59000,"Action, Drama, Mystery",Masaki Kobayashi,0,$,Japanese,45,Japan
+The Intouchables,2011,8.5,865000,"Biography, Comedy, Drama",Olivier Nakache,9500000,€,"French, English",46,France
+Modern Times,1936,8.5,245000,"Comedy, Drama, Romance",Charles Chaplin,1500000,$,English,47,United States
+Once Upon a Time in the West,1968,8.5,333000,Western,Sergio Leone,5000000,$,"Italian, English, Spanish",48,"Italy, United States"
+Rear Window,1954,8.5,495000,"Mystery, Thriller",Alfred Hitchcock,1000000,$,English,49,United States
+Cinema Paradiso,1988,8.5,264000,"Drama, Romance",Giuseppe Tornatore,5000000,$,Italian,50,"Italy, France"
+Alien,1979,8.5,889000,"Horror, Sci-Fi",Ridley Scott,11000000,$,English,51,"United Kingdom, United States"
+City Lights,1931,8.5,187000,"Comedy, Drama, Romance",Charles Chaplin,1500000,$,"None, English",52,United States
+Apocalypse Now,1979,8.5,672000,"Drama, Mystery, War",Francis Ford Coppola,31500000,$,"English, French, Vietnamese",53,United States
+Memento,2000,8.4,1200000,"Mystery, Thriller",Christopher Nolan,9000000,$,English,54,United States
+Django Unchained,2012,8.4,1600000,"Drama, Western",Quentin Tarantino,100000000,$,"English, German, French, Italian",55,United States
+Indiana Jones and the Raiders of the Lost Ark,1981,8.4,973000,"Action, Adventure",Steven Spielberg,18000000,$,"English, German, Hebrew, Spanish, Arabic, Nepali",56,United States
+WALL·E,2008,8.4,1100000,"Animation, Adventure, Family",Andrew Stanton,180000000,$,"English, Hindi",57,United States
+The Lives of Others,2006,8.4,393000,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,2000000,$,German,58,"Germany, France"
+Sunset Blvd.,1950,8.4,224000,"Drama, Film-Noir",Billy Wilder,1752000,$,English,59,United States
+Paths of Glory,1957,8.4,200000,"Drama, War",Stanley Kubrick,935000,$,"English, German, Latin",60,United States
+The Shining,1980,8.4,1000000,"Drama, Horror",Stanley Kubrick,19000000,$,English,61,"United Kingdom, United States"
+The Great Dictator,1940,8.4,226000,"Comedy, Drama, War",Charles Chaplin,2000000,$,"English, Esperanto, Latin",62,United States
+Avengers: Infinity War,2018,8.4,1100000,"Action, Adventure, Sci-Fi",Anthony Russo,321000000,$,English,63,United States
+Witness for the Prosecution,1957,8.4,127000,"Crime, Drama, Mystery",Billy Wilder,3000000,$,"English, German",64,United States
+Aliens,1986,8.4,723000,"Action, Adventure, Sci-Fi",James Cameron,18500000,$,"English, Spanish",65,"United Kingdom, United States"
+Spider-Man: Into the Spider-Verse,2018,8.4,538000,"Animation, Action, Adventure",Bob Persichetti,90000000,$,"English, Spanish",66,United States
+American Beauty,1999,8.4,1200000,Drama,Sam Mendes,15000000,$,English,67,United States
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,495000,"Comedy, War",Stanley Kubrick,1800000,$,"English, Russian",68,"United Kingdom, United States"
+The Dark Knight Rises,2012,8.4,1700000,"Action, Drama",Christopher Nolan,250000000,$,"English, Arabic",69,"United States, United Kingdom"
+Oldboy,2003,8.4,585000,"Action, Drama, Mystery",Park Chan-wook,3000000,$,Korean,70,South Korea
+Inglourious Basterds,2009,8.3,1500000,"Adventure, Drama, War",Quentin Tarantino,70000000,$,"English, German, French, Italian",71,"Germany, United States"
+Amadeus,1984,8.4,405000,"Biography, Drama, Music",Milos Forman,18000000,$,"English, Italian, Latin, German, French",72,"United States, France, Italy"
+Coco,2017,8.4,516000,"Animation, Adventure, Comedy",Lee Unkrich,175000000,$,"English, Spanish",73,United States
+Toy Story,1995,8.3,1000000,"Animation, Adventure, Comedy",John Lasseter,30000000,$,English,74,United States
+Joker,2019,8.4,1300000,"Crime, Drama, Thriller",Todd Phillips,55000000,$,English,75,"United States, Canada"
+Braveheart,1995,8.4,1000000,"Biography, Drama, History",Mel Gibson,72000000,$,"English, French, Latin, Gaelic, Italian",76,United States
+The Boat,1981,8.4,253000,"Drama, War",Wolfgang Petersen,EM,D,German,77,"West Germany, Italy, France, United Kingdom"
+Avengers: Endgame,2019,8.4,1100000,"Action, Adventure, Drama",Anthony Russo,356000000,$,"English, Japanese, Xhosa, German",78,United States
+Princess Mononoke,1997,8.4,399000,"Animation, Action, Adventure",Hayao Miyazaki,2400000000,¥,Japanese,79,Japan
+Once Upon a Time in America,1984,8.3,355000,"Crime, Drama",Sergio Leone,30000000,$,"English, Italian, French, Yiddish, Hebrew",80,"Italy, United States"
+Good Will Hunting,1997,8.3,981000,"Drama, Romance",Gus Van Sant,10000000,$,English,81,United States
+Your Name.,2016,8.4,274000,"Animation, Drama, Fantasy",Makoto Shinkai,370000000,¥,Japanese,82,Japan
+3 Idiots,2009,8.4,404000,"Comedy, Drama",Rajkumar Hirani,550000000,₹,"Hindi, English",83,India
+Singin' in the Rain,1952,8.3,246000,"Comedy, Musical, Romance",Stanley Donen,2540800,$,English,84,United States
+Requiem for a Dream,2000,8.3,849000,Drama,Darren Aronofsky,4500000,$,English,85,United States
+Toy Story 3,2010,8.3,842000,"Animation, Adventure, Comedy",Lee Unkrich,200000000,$,"English, Spanish",86,United States
+High and Low,1963,8.4,46000,"Crime, Drama, Mystery",Akira Kurosawa,0,$,Japanese,87,Japan
+Capernaum,2018,8.4,92000,Drama,Nadine Labaki,4000000,$,"Arabic, Amharic",88,"Lebanon, France, Cyprus, Qatar, United Kingdom"
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,1100000,"Action, Adventure, Fantasy",Richard Marquand,32500000,$,"English, Kikuyu, Tagalog, Kalmyk-Oirat, Quechua, Polish",89,United States
+Eternal Sunshine of the Spotless Mind,2004,8.3,1000000,"Drama, Romance, Sci-Fi",Michel Gondry,20000000,$,English,90,United States
+2001: A Space Odyssey,1968,8.3,674000,"Adventure, Sci-Fi",Stanley Kubrick,12000000,$,"English, Russian, French",91,"United Kingdom, United States"
+Reservoir Dogs,1992,8.3,1000000,"Crime, Thriller",Quentin Tarantino,1200000,$,English,92,United States
+Come and See,1985,8.4,82000,"Drama, Thriller, War",Elem Klimov,0,$,"Russian, Belarusian, German",93,Soviet Union
+The Hunt,2012,8.3,335000,Drama,Thomas Vinterberg,3800000,$,"Danish, English, Polish",94,"Denmark, Sweden"
+Citizen Kane,1941,8.3,446000,"Drama, Mystery",Orson Welles,839727,$,"English, Italian",95,United States
+Lawrence of Arabia,1962,8.3,297000,"Adventure, Biography, Drama",David Lean,15000000,$,"English, Arabic, Turkish",96,United Kingdom
+M,1931,8.3,160000,"Crime, Mystery, Thriller",Fritz Lang,0,$,German,97,Germany
+North by Northwest,1959,8.3,331000,"Action, Adventure, Mystery",Alfred Hitchcock,3101000,$,"English, French",98,United States
+Vertigo,1958,8.3,406000,"Mystery, Romance, Thriller",Alfred Hitchcock,2479000,$,English,99,United States
+Top Gun: Maverick,2022,8.3,513000,"Action, Drama",Joseph Kosinski,170000000,$,English,100,United States
+Amélie,2001,8.3,761000,"Comedy, Romance",Jean-Pierre Jeunet,10000000,$,"French, Russian, English",101,"France, Germany"
+The Apartment,1960,8.3,184000,"Comedy, Drama, Romance",Billy Wilder,3000000,$,English,102,United States
+Ikiru,1952,8.3,80000,Drama,Akira Kurosawa,0,$,Japanese,103,Japan
+A Clockwork Orange,1971,8.3,836000,"Crime, Sci-Fi",Stanley Kubrick,2200000,$,English,104,"United Kingdom, United States"
+Double Indemnity,1944,8.3,159000,"Crime, Drama, Film-Noir",Billy Wilder,927262,$,English,105,United States
+Full Metal Jacket,1987,8.3,748000,"Drama, War",Stanley Kubrick,30000000,$,"English, Vietnamese",106,"United Kingdom, United States"
+Scarface,1983,8.3,849000,"Crime, Drama",Brian De Palma,25000000,$,"English, Spanish",107,United States
+Hamilton,2020,8.4,97000,"Biography, Drama, History",Thomas Kail,0,$,English,108,United States
+Incendies,2010,8.3,180000,"Drama, Mystery",Denis Villeneuve,6800000,$,"French, Arabic, English",109,"Canada, France"
+To Kill a Mockingbird,1962,8.3,319000,"Crime, Drama",Robert Mulligan,2000000,$,English,110,United States
+The Sting,1973,8.3,266000,"Comedy, Crime, Drama",George Roy Hill,5500000,$,English,111,United States
+Heat,1995,8.3,661000,"Action, Crime, Drama",Michael Mann,60000000,$,"English, Spanish",112,United States
+Up,2009,8.3,1100000,"Animation, Adventure, Comedy",Pete Docter,175000000,$,English,113,United States
+A Separation,2011,8.3,247000,Drama,Asghar Farhadi,500000,$,Persian,114,"Iran, France, Australia"
+Taxi Driver,1976,8.2,841000,"Crime, Drama",Martin Scorsese,1300000,$,"English, Spanish",115,United States
+Metropolis,1927,8.3,176000,"Drama, Sci-Fi",Fritz Lang,EM,D,"German, English",116,Germany
+L.A. Confidential,1997,8.2,587000,"Crime, Drama, Mystery",Curtis Hanson,35000000,$,English,117,United States
+Die Hard,1988,8.2,891000,"Action, Thriller",John McTiernan,28000000,$,"English, German, Italian, Japanese",118,United States
+Snatch,2000,8.2,862000,"Comedy, Crime",Guy Ritchie,6000000,£,"English, Russian",119,"United Kingdom, United States"
+Indiana Jones and the Last Crusade,1989,8.2,761000,"Action, Adventure",Steven Spielberg,48000000,$,"English, German, Greek, Arabic",120,United States
+Bicycle Thieves,1948,8.3,166000,Drama,Vittorio De Sica,133000,$,"Italian, English, German",121,Italy
+Like Stars on Earth,2007,8.3,196000,"Drama, Family",Aamir Khan,0,$,Hindi,122,India
+1917,2019,8.2,600000,"Action, Drama, War",Sam Mendes,95000000,$,"English, French, German",123,"United Kingdom, United States, India, Spain"
+Downfall,2004,8.2,359000,"Biography, Drama, History",Oliver Hirschbiegel,13500000,€,"German, Russian, French, English",124,"Germany, Austria, Italy"
+Dangal,2016,8.3,194000,"Action, Biography, Drama",Nitesh Tiwari,700000000,₹,"Hindi, English",125,"India, United States"
+For a Few Dollars More,1965,8.2,260000,Western,Sergio Leone,600000,$,"Italian, English",126,"Italy, Spain, West Germany"
+Batman Begins,2005,8.2,1500000,"Action, Crime, Drama",Christopher Nolan,150000000,$,"English, Mandarin",127,"United States, United Kingdom"
+The Kid,1921,8.3,128000,"Comedy, Drama, Family",Charles Chaplin,250000,$,English,128,United States
+Some Like It Hot,1959,8.2,270000,"Comedy, Music, Romance",Billy Wilder,2883848,$,English,129,United States
+The Father,2020,8.2,159000,"Drama, Mystery",Florian Zeller,6000000,$,English,130,"United Kingdom, France, United States"
+All About Eve,1950,8.2,133000,Drama,Joseph L. Mankiewicz,1400000,$,"English, French",131,United States
+Green Book,2018,8.2,500000,"Biography, Comedy, Drama",Peter Farrelly,23000000,$,"English, Italian, Russian, German",132,"United States, China"
+The Wolf of Wall Street,2013,8.2,1400000,"Biography, Comedy, Crime",Martin Scorsese,100000000,$,"English, French",133,United States
+Judgment at Nuremberg,1961,8.3,79000,"Drama, War",Stanley Kramer,3000000,$,"English, German",134,United States
+Ran,1985,8.2,127000,"Action, Drama, War",Akira Kurosawa,11500000,$,Japanese,135,"Japan, France"
+Casino,1995,8.2,526000,"Crime, Drama",Martin Scorsese,52000000,$,English,136,"United States, France"
+Pan's Labyrinth,2006,8.2,674000,"Drama, Fantasy, War",Guillermo del Toro,19000000,$,Spanish,137,"Mexico, Spain"
+The Truman Show,1998,8.2,1100000,"Comedy, Drama",Peter Weir,60000000,$,English,138,United States
+Unforgiven,1992,8.2,416000,"Drama, Western",Clint Eastwood,14400000,$,English,139,United States
+There Will Be Blood,2007,8.2,592000,Drama,Paul Thomas Anderson,25000000,$,"English, American Sign Language",140,United States
+The Sixth Sense,1999,8.2,998000,"Drama, Mystery, Thriller",M. Night Shyamalan,40000000,$,"English, Latin, Spanish",141,United States
+Shutter Island,2010,8.2,1300000,"Mystery, Thriller",Martin Scorsese,80000000,$,"English, German",142,United States
+A Beautiful Mind,2001,8.2,938000,"Biography, Drama",Ron Howard,58000000,$,English,143,United States
+Yojimbo,1961,8.2,125000,"Action, Drama, Thriller",Akira Kurosawa,0,$,Japanese,144,Japan
+Jurassic Park,1993,8.2,996000,"Action, Adventure, Sci-Fi",Steven Spielberg,63000000,$,"English, Spanish",145,United States
+The Treasure of the Sierra Madre,1948,8.2,126000,"Adventure, Drama, Western",John Huston,3000000,$,"English, Spanish",146,United States
+Monty Python and the Holy Grail,1975,8.2,546000,"Adventure, Comedy, Fantasy",Terry Gilliam,229575,£,"English, French, Latin, Swedish",147,United Kingdom
+Spider-Man: No Way Home,2021,8.2,766000,"Action, Adventure, Fantasy",Jon Watts,200000000,$,English,148,United States
+The Great Escape,1963,8.2,247000,"Adventure, Drama, History",John Sturges,4000000,$,"English, German, French, Russian, Spanish",149,United States
+No Country for Old Men,2007,8.2,982000,"Crime, Drama, Thriller",Ethan Coen,25000000,$,"English, Spanish",150,United States
+Kill Bill: Vol. 1,2003,8.2,1100000,"Action, Crime, Drama",Quentin Tarantino,30000000,$,"English, Japanese, French",151,United States
+Rashomon,1950,8.2,171000,"Crime, Drama, Mystery",Akira Kurosawa,250000,$,Japanese,152,Japan
+The Thing,1982,8.2,430000,"Horror, Mystery, Sci-Fi",John Carpenter,15000000,$,"English, Norwegian",153,"United States, Canada"
+Finding Nemo,2003,8.2,1100000,"Animation, Adventure, Comedy",Andrew Stanton,94000000,$,English,154,United States
+The Elephant Man,1980,8.2,244000,"Biography, Drama",David Lynch,5000000,$,"English, French",155,"United States, United Kingdom"
+Chinatown,1974,8.2,330000,"Drama, Mystery, Thriller",Roman Polanski,6000000,$,"English, Cantonese, Spanish",156,United States
+Raging Bull,1980,8.2,358000,"Biography, Drama, Sport",Martin Scorsese,18000000,$,English,157,United States
+V for Vendetta,2005,8.2,1100000,"Action, Drama, Sci-Fi",James McTeigue,54000000,$,English,158,"United States, United Kingdom, Germany"
+Gone with the Wind,1939,8.2,319000,"Drama, Romance, War",Victor Fleming,3977000,$,English,159,United States
+"Lock, Stock and Two Smoking Barrels",1998,8.2,587000,"Action, Comedy, Crime",Guy Ritchie,960000,£,English,160,United Kingdom
+Inside Out,2015,8.2,721000,"Animation, Adventure, Comedy",Pete Docter,175000000,$,"English, Portuguese",161,"United States, Japan"
+Dial M for Murder,1954,8.2,178000,"Crime, Thriller",Alfred Hitchcock,1400000,$,English,162,United States
+The Secret in Their Eyes,2009,8.2,212000,"Drama, Mystery, Romance",Juan José Campanella,2000000,$,Spanish,163,"Argentina, Spain"
+Howl's Moving Castle,2004,8.2,401000,"Animation, Adventure, Family",Hayao Miyazaki,24000000,$,Japanese,164,Japan
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,514000,"Comedy, Crime, Drama",Martin McDonagh,15000000,$,English,165,"United Kingdom, United States"
+The Bridge on the River Kwai,1957,8.2,223000,"Adventure, Drama, War",David Lean,3000000,$,"English, Japanese, Thai",166,"United Kingdom, United States"
+Trainspotting,1996,8.1,692000,Drama,Danny Boyle,1500000,£,English,167,United Kingdom
+Prisoners,2013,8.1,726000,"Crime, Drama, Mystery",Denis Villeneuve,46000000,$,English,168,United States
+Warrior,2011,8.2,477000,"Action, Drama, Sport",Gavin O'Connor,25000000,$,"English, Spanish",169,United States
+Fargo,1996,8.1,684000,"Crime, Thriller",Joel Coen,7000000,$,English,170,"United States, United Kingdom"
+Gran Torino,2008,8.1,781000,Drama,Clint Eastwood,33000000,$,"English, Hmong",171,"Germany, United States"
+My Neighbor Totoro,1988,8.1,344000,"Animation, Comedy, Family",Hayao Miyazaki,3700000,$,Japanese,172,Japan
+Catch Me If You Can,2002,8.1,994000,"Biography, Crime, Drama",Steven Spielberg,52000000,$,"English, French",173,"United States, Canada"
+Million Dollar Baby,2004,8.1,692000,"Drama, Sport",Clint Eastwood,30000000,$,"English, Irish Gaelic",174,United States
+Children of Heaven,1997,8.2,76000,"Drama, Family, Sport",Majid Majidi,180000,$,Persian,175,Iran
+Blade Runner,1982,8.1,776000,"Action, Drama, Sci-Fi",Ridley Scott,28000000,$,"English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",176,United States
+The Gold Rush,1925,8.1,113000,"Adventure, Comedy, Drama",Charles Chaplin,923000,$,"None, English",177,United States
+Before Sunrise,1995,8.1,313000,"Drama, Romance",Richard Linklater,2500000,$,"English, German, French",178,"United States, Austria"
+12 Years a Slave,2013,8.1,706000,"Biography, Drama, History",Steve McQueen,20000000,$,English,179,"United States, United Kingdom"
+Klaus,2019,8.2,161000,"Animation, Adventure, Comedy",Sergio Pablos,40000000,$,"English, Saami",180,"Spain, United Kingdom, United States"
+On the Waterfront,1954,8.1,157000,"Crime, Drama, Thriller",Elia Kazan,910000,$,English,181,United States
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,883000,"Adventure, Family, Fantasy",David Yates,125000000,$,"English, Latin",182,"United Kingdom, United States"
+Ben-Hur,1959,8.1,242000,"Adventure, Drama",William Wyler,15000000,$,English,183,United States
+Gone Girl,2014,8.1,991000,"Drama, Mystery, Thriller",David Fincher,61000000,$,English,184,United States
+The Grand Budapest Hotel,2014,8.1,819000,"Adventure, Comedy, Crime",Wes Anderson,25000000,$,"English, French, German",185,"United States, Germany"
+Wild Strawberries,1957,8.1,109000,"Drama, Romance",Ingmar Bergman,0,$,"Swedish, Latin",186,Sweden
+The General,1926,8.1,93000,"Action, Adventure, Comedy",Clyde Bruckman,750000,$,None,187,United States
+The Third Man,1949,8.1,174000,"Film-Noir, Mystery, Thriller",Carol Reed,0,$,"English, German, Russian, French",188,United Kingdom
+In the Name of the Father,1993,8.1,177000,"Biography, Crime, Drama",Jim Sheridan,13000000,$,English,189,"Ireland, United Kingdom"
+The Deer Hunter,1978,8.1,343000,"Drama, War",Michael Cimino,15000000,$,"English, Vietnamese, French, Russian, Cantonese",190,"United States, United Kingdom"
+Barry Lyndon,1975,8.1,171000,"Adventure, Drama, War",Stanley Kubrick,11000000,$,"English, German, French",191,"United Kingdom, United States"
+The Wages of Fear,1953,8.2,62000,"Adventure, Drama, Thriller",Henri-Georges Clouzot,0,$,"French, English, Spanish, German, Italian, Russian",192,"France, Italy"
+Hacksaw Ridge,2016,8.1,534000,"Biography, Drama, History",Mel Gibson,40000000,$,"English, Japanese",193,"Australia, United States, United Kingdom, China"
+Memories of Murder,2003,8.1,189000,"Crime, Drama, Mystery",Bong Joon Ho,2800000,$,"Korean, English",194,South Korea
+Sherlock Jr.,1924,8.2,51000,"Action, Comedy, Romance",Buster Keaton,0,$,"None, English",195,United States
+Wild Tales,2014,8.1,201000,"Comedy, Drama, Thriller",Damián Szifron,3300000,$,Spanish,196,"Argentina, Spain, France, United Kingdom"
+Mr. Smith Goes to Washington,1939,8.1,117000,"Comedy, Drama",Frank Capra,1900000,$,English,197,United States
+Mad Max: Fury Road,2015,8.1,1000000,"Action, Adventure, Sci-Fi",George Miller,150000000,$,"English, Russian",198,Australia
+The Seventh Seal,1957,8.1,188000,"Drama, Fantasy",Ingmar Bergman,150000,$,"Swedish, Latin",199,Sweden
+Mary and Max,2009,8.1,179000,"Animation, Comedy, Drama",Adam Elliot,$8240000,A,"English, Yiddish",200,Australia
+Room,2015,8.1,425000,"Drama, Thriller",Lenny Abrahamson,13000000,$,English,201,"Ireland, Canada, United Kingdom, United States"
+How to Train Your Dragon,2010,8.1,747000,"Animation, Action, Adventure",Dean DeBlois,165000000,$,English,202,United States
+"Monsters, Inc.",2001,8.1,916000,"Animation, Adventure, Comedy",Pete Docter,115000000,$,English,203,United States
+Jaws,1975,8.1,612000,"Adventure, Thriller",Steven Spielberg,7000000,$,English,204,United States
+The Big Lebowski,1998,8.1,815000,"Comedy, Crime",Joel Coen,15000000,$,"English, German, Hebrew, Spanish",205,"United States, United Kingdom"
+Dead Poets Society,1989,8.1,498000,"Comedy, Drama",Peter Weir,16400000,$,"English, Latin",206,United States
+Tokyo Story,1953,8.2,63000,Drama,Yasujirô Ozu,0,$,"Japanese, English",207,Japan
+The Passion of Joan of Arc,1928,8.2,56000,"Biography, Drama, History",Carl Theodor Dreyer,0,$,"None, French",208,France
+Hotel Rwanda,2004,8.1,358000,"Biography, Drama, History",Terry George,17500000,$,"English, French, Kinyarwanda",209,"United Kingdom, South Africa, Italy, United States"
+Ford v Ferrari,2019,8.1,401000,"Action, Biography, Drama",James Mangold,97600000,$,"English, Italian, French, Japanese",210,United States
+Rocky,1976,8.1,583000,"Drama, Sport",John G. Avildsen,960000,$,English,211,United States
+Platoon,1986,8.1,418000,"Drama, War",Oliver Stone,6000000,$,"English, Vietnamese",212,"United States, United Kingdom"
+Ratatouille,2007,8.1,746000,"Animation, Adventure, Comedy",Brad Bird,150000000,$,"English, French",213,United States
+Spotlight,2015,8.1,474000,"Biography, Crime, Drama",Tom McCarthy,20000000,$,English,214,United States
+The Terminator,1984,8.1,872000,"Action, Sci-Fi",James Cameron,6400000,$,"English, Spanish",215,"United Kingdom, United States"
+Logan,2017,8.1,771000,"Action, Drama, Sci-Fi",James Mangold,97000000,$,"English, Spanish",216,United States
+Stand by Me,1986,8.1,409000,"Adventure, Drama",Rob Reiner,8000000,$,English,217,United States
+Rush,2013,8.1,484000,"Action, Biography, Drama",Ron Howard,38000000,$,"English, German, Italian, French, Spanish",218,"United Kingdom, United States"
+Network,1976,8.1,161000,Drama,Sidney Lumet,3800000,$,English,219,United States
+Into the Wild,2007,8.1,628000,"Adventure, Biography, Drama",Sean Penn,15000000,$,"English, Danish",220,United States
+Before Sunset,2004,8.1,268000,"Drama, Romance",Richard Linklater,2700000,$,"English, French",221,"United States, France"
+The Wizard of Oz,1939,8.1,404000,"Adventure, Family, Fantasy",Victor Fleming,2777000,$,English,222,United States
+Pather Panchali,1955,8.3,34000,Drama,Satyajit Ray,0,$,Bengali,223,India
+The Best Years of Our Lives,1946,8.1,66000,"Drama, Romance, War",William Wyler,2100000,$,English,224,United States
+Groundhog Day,1993,8.1,638000,"Comedy, Drama, Fantasy",Harold Ramis,14600000,$,"English, French, Italian",225,United States
+The Exorcist,1973,8.1,413000,Horror,William Friedkin,11000000,$,"English, Latin, Greek, French, German, Arabic, Kurdish",226,United States
+The Incredibles,2004,8.0,745000,"Animation, Action, Adventure",Brad Bird,92000000,$,"English, French",227,United States
+To Be or Not to Be,1942,8.2,39000,"Comedy, Romance, War",Ernst Lubitsch,0,$,"English, German, French",228,United States
+La haine,1995,8.1,177000,"Crime, Drama",Mathieu Kassovitz,2590000,€,French,229,"France, United States"
+The Battle of Algiers,1966,8.1,61000,"Drama, War",Gillo Pontecorvo,800000,$,"Arabic, French, English",230,"Italy, Algeria"
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1100000,"Action, Adventure, Fantasy",Gore Verbinski,140000000,$,English,231,United States
+Hachi: A Dog's Tale,2009,8.1,289000,"Biography, Drama, Family",Lasse Hallström,16000000,$,"English, Japanese",232,"United Kingdom, United States"
+My Father and My Son,2005,8.2,88000,"Drama, Family",Çagan Irmak,0,$,Turkish,233,Turkey
+The Grapes of Wrath,1940,8.1,95000,Drama,John Ford,800000,$,English,234,United States
+Jai Bhim,2021,8.8,204000,"Crime, Drama, Mystery",T.J. Gnanavel,0,$,"Tamil, Hindi, Telugu",235,India
+Amores Perros,2000,8.1,243000,"Drama, Thriller",Alejandro G. Iñárritu,2000000,$,Spanish,236,Mexico
+Rebecca,1940,8.1,139000,"Drama, Film-Noir, Mystery",Alfred Hitchcock,1288000,$,"English, French",237,United States
+Cool Hand Luke,1967,8.1,179000,"Crime, Drama",Stuart Rosenberg,3200000,$,English,238,United States
+The Handmaiden,2016,8.1,152000,"Drama, Romance, Thriller",Park Chan-wook,10000000000,₩,"Korean, Japanese",239,South Korea
+The 400 Blows,1959,8.1,120000,"Crime, Drama",François Truffaut,0,₩,"French, English",240,France
+The Sound of Music,1965,8.1,239000,"Biography, Drama, Family",Robert Wise,8200000,$,"English, German",241,United States
+It Happened One Night,1934,8.1,106000,"Comedy, Romance",Frank Capra,325000,$,English,242,United States
+Persona,1966,8.1,121000,"Drama, Thriller",Ingmar Bergman,0,$,"Swedish, English",243,Sweden
+Life of Brian,1979,8.0,404000,Comedy,Terry Jones,4000000,$,"English, Latin",244,United Kingdom
+The Iron Giant,1999,8.1,203000,"Animation, Action, Adventure",Brad Bird,70000000,$,English,245,United States
+The Help,2011,8.1,463000,Drama,Tate Taylor,25000000,$,English,246,"United States, India"
+Aladdin,1992,8.0,426000,"Animation, Adventure, Comedy",Ron Clements,28000000,$,English,247,United States
+Dersu Uzala,1975,8.2,31000,"Adventure, Biography, Drama",Akira Kurosawa,4000000,$,"Russian, Chinese",248,"Soviet Union, Japan"
+Gandhi,1982,8.0,234000,"Biography, Drama, History",Richard Attenborough,22000000,$,"English, Hindi",249,"United Kingdom, India, United States, South Africa"
+Dances with Wolves,1990,8.0,270000,"Adventure, Drama, Western",Kevin Costner,22000000,$,"English, Sioux, Pawnee",250,"United States, United Kingdom"
